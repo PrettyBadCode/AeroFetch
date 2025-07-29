@@ -51,22 +51,22 @@
 
  **ColorTheme:** *WinClassic*
 
-![alt text](media/af_screenshot_01.png)
+![alt text](AeroFetch/1.0.0/media/af_screenshot_01.png)
 
 **ASCII Art:** *Eleven_Frame*
 
  **ColorTheme:** *WinClassic*
 
-![alt text](media/af_screenshot_02.png)
+![alt text](AeroFetch/1.0.0/media/af_screenshot_02.png)
 
 **ASCII Art:** *Eleven_Frame_Alt_Fill*
 
  **ColorTheme:** *WinClassic*
 
-![alt text](media/af_screenshot_04.png)
+![alt text](AeroFetch/1.0.0/media/af_screenshot_04.png)
 
 **ASCII Art:** *Clippy*
 
  **ColorTheme:** *Greyscale*
 
-![alt text](media/af_screenshot_03.png)
+![alt text](AeroFetch/1.0.0/media/af_screenshot_03.png)
